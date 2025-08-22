@@ -13,3 +13,32 @@
 
 // console.log(data);
 
+
+
+
+// MAP MATHOD 
+
+let data = new Map([
+    [true,"karish"]
+])
+
+
+// data.clear()
+// data.delete(true)
+data.set("hello",123456)
+// console.log(data);
+
+// console.log(data.get(true))
+// console.log(data.has("hello"));
+
+// console.log(data.keys());
+// console.log(data.values());
+
+// console.log(data.entries());
+// data.forEach((e,k)=> console.log(`${k}=>${e}`))
+
+console.log(data.size)
+
+
+
+
