@@ -135,3 +135,9 @@ let quickSorting = (arr) => {
 // OUTPUT
 
 // Pivot Index is 5
+
+
+
+
+
+
