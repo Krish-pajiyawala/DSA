@@ -7,5 +7,5 @@ let data = new WeakSet([a,b])
 console.log(data);
 console.log(data.has(b))
 data.delete(b)
-console.log(data.has(b))
+console.log(data.has(b)) 
 
