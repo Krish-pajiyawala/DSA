@@ -1,3 +1,5 @@
+
+
 // 2.Balanced parenthesis
 
 function isBalanced(str) {
